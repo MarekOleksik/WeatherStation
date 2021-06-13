@@ -32,6 +32,7 @@ ALLOWED_HOSTS = ["192.168.1.80", "127.0.0.1", "192.168.1.3"]
 
 INSTALLED_APPS = [
     'bme280',
+    'chartjs',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
